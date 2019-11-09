@@ -1,18 +1,10 @@
-################################[UPDATE]#################################
 # Source: https://github.com/notracking/hosts-blocklists
 # Last update: Sat Nov 9 08:33:36 CET 2019
 # Filter supports ipv4 and ipv6
 # Number of unique domains: 73655
-#################################[INFO]##################################
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
 # This hostfiles aim is not to break any useful websites
-# Submit a issue on Github in case of any false or missing hosts
-################################[INSTALL]################################
-# Update your dnsmasq.conf file and add the following 2 lines:
-#  conf-file=/path/to/domains.txt
-#  addn-hosts=/path/to/hostnames.txt
-################################[DOMAINS]################################
 ||000007.ru^
 ||000free.us^
 ||000freexxx.com^
