@@ -1,7 +1,7 @@
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Sat Nov 9 08:33:36 CET 2019
+# Last update: Sun Nov 10 08:32:24 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37861
+# Number of unique hostnames: 37874
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
 # This hostfiles aim is not to break any useful websites
@@ -1577,6 +1577,7 @@
 ||aa0.pub.funshion.com^
 ||aa1.ifeng.com^
 ||aa1.pub.funshion.com^
+||aa1atghd0uhfffgftyfasdgfjsq20.s3.amazonaws.com^
 ||aaa.dv0.info^
 ||aaaaaa.icfoscolosoverato.it^
 ||aaddss.tohomh.com^
@@ -17703,6 +17704,7 @@
 ||i-sn2-cor001.api.p001.1drv.com^
 ||i-sn2-cor002.api.p001.1drv.com^
 ||i-sn3p-cor001.api.p001.1drv.com^
+||i-sn3p-cor002.api.p001.1drv.com^
 ||i.1cat.com^
 ||i.1o26.com^
 ||i.bestcontentfare.top^
@@ -20189,7 +20191,11 @@
 ||loock.contigocreative.info^
 ||loock.curingcruelty.com^
 ||loock.dreamsempowerct.com^
+||look.djfiln.com^
 ||look.kfiopkln.com^
+||look.opskln.com^
+||look.udncoeln.com^
+||look.ufinkln.com^
 ||look1.traveloka-flight.com^
 ||looking-unblock.000webhostapp.com^
 ||lookup.in.net^
@@ -26189,6 +26195,7 @@
 ||qthbjuks4rx4jib6iudx.maherstcottage.com.au^
 ||qto.reprintingstakeholder.com^
 ||quangl3m.beget.tech^
+||quantcast.mgr.consensu.org^
 ||quasar.sitegauge.com^
 ||qubitanalytics.appspot.com^
 ||qubitproducts.app13.hubspot.com^
@@ -26464,6 +26471,7 @@
 ||realtime.services.disqus.com^
 ||realtouchbannerwidget.aebn.net^
 ||rebolyschool.iso.karelia.ru^
+||rec-ir.quartic.pl^
 ||rec.api.baifendian.com^
 ||rec.g.163.com^
 ||rec.moviebox.baofeng.net^
@@ -27280,6 +27288,7 @@
 ||s2trade.mtxcapital.com^
 ||s3-tracking.synthasite.net.s3.amazonaws.com^
 ||s3.chengmingliang.com^
+||s3.in.ua^
 ||s3.joexl.com^
 ||s3.ongsono.com^
 ||s3.pfp.sina.net^
@@ -28478,6 +28487,7 @@
 ||shop.180fusion.com^
 ||shop.adamjk.com^
 ||shop.admin.yinyuetai.com^
+||shop.buybox.click^
 ||shop.dr-rath.com^
 ||shop.fangiobrokeraggio.com^
 ||shop.heirloomwoodenbowls.com^
@@ -28849,6 +28859,7 @@
 ||sohu.wrating.com^
 ||sokarajatengah.or.id^
 ||solar.doctortoken.co.in^
+||soldi.duckdns.org^
 ||soldi.msn.it^
 ||solo4sse.beget.tech^
 ||soluser2.cybercity.dk^
@@ -29401,6 +29412,7 @@
 ||static.oroll.com^
 ||static.parkingpanel.com^
 ||static.proximic.com^
+||static.quantcast.mgr.consensu.org^
 ||static.realmediadigital.com^
 ||static.regiojobs.be^
 ||static.resetamobil.com^
@@ -35106,6 +35118,7 @@
 ||www.elitemarketing.net^
 ||www.elmodel.com^
 ||www.elpais.es^
+||www.elsiedesigns.com^
 ||www.email-login-support.com^
 ||www.email-marketing.net^
 ||www.emailaccount.com^
