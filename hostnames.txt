@@ -1,7 +1,7 @@
 # Source: https://github.com/notracking/hosts-blocklists
-# Last update: Fri Nov 15 08:35:28 CET 2019
+# Last update: Sun Nov 17 08:36:32 CET 2019
 # Filter supports ipv4 and ipv6
-# Number of unique hostnames: 37930
+# Number of unique hostnames: 37939
 # Blocks ads, fake sites, shock sites, malware hosts and trackers
 # Removed verified false calls and added a large set of custom entries
 # This hostfiles aim is not to break any useful websites
@@ -307,6 +307,7 @@
 ||2346ytrew3.from-mn.com^
 ||24200.h5ixp.com^
 ||24200.luvbr.com^
+||24fkxhnr3cdtvwmy.onion.link^
 ||24fkxhnr3cdtvwmy.onion.nu^
 ||24fkxhnr3cdtvwmy.onion.to^
 ||24newsoft.fetmoredonefasterbysubmiting.download^
@@ -356,6 +357,7 @@
 ||290684.en.world-stone.com^
 ||296f4h3wluqxmie0yqbk8n.littlematchagirl.com.au^
 ||299800-de-nutzung-mitteilung-benutzer.sicherheitshilfe-sicherheitssystem.ga^
+||2ahiru2school.houkou-onchi.com^
 ||2bai8wb5d6.kenstewardministries.org^
 ||2bdfb.spinakrosa.at^
 ||2bits.org.ru^
@@ -381,6 +383,7 @@
 ||3.cennter.com^
 ||3.chuanyi5.com^
 ||3.guidaye.com^
+||3.ihenan.com^
 ||3.iscrv.com^
 ||3.ssqzj.com^
 ||3.up.qingdaonews.com^
@@ -1097,6 +1100,7 @@
 ||6pnfsdfm4p.ojuqcvkwwh.madpendesign.com.au^
 ||6qbrxcchyely9xgsulhe.richambitions.co.uk^
 ||6qhzz.allvideos.keme.info^
+||6rota.costav.edusite.ru^
 ||6zsslsvosk.bradul.creatory.org^
 ||7.1tb.in^
 ||7.duote.com.cn^
@@ -1593,6 +1597,7 @@
 ||aan.amazon.com^
 ||aansluitingallekirjoittamaan.vbay.la^
 ||aaron.fansju.com^
+||aashima.goyal.com.au^
 ||aassp.wgzty.cn^
 ||aat.worldatclick.com^
 ||ab-reference-id-number-8697.epkphotography.com^
@@ -1990,6 +1995,7 @@
 ||ad.cdn.sex^
 ||ad.centrum.cz^
 ||ad.cgi.cz^
+||ad.ch5.tv^
 ||ad.chip.de^
 ||ad.choiceradio.com^
 ||ad.chosunonline.com^
@@ -2616,6 +2622,7 @@
 ||ad1.sina.com.cn^
 ||ad1.sportschosun.com^
 ||ad1.sportsseoul.com^
+||ad1.tinong.net^
 ||ad1.udn.com^
 ||ad1.virtualave.com^
 ||ad1.yangjinyou.com^
@@ -2745,6 +2752,7 @@
 ||adadmin.house365.com^
 ||adagiobanner.s3.amazonaws.com^
 ||adagiof3.repubblica.it^
+||adamjarekelk.freehost.pl^
 ||adapi.gunosy.com^
 ||adapi.inlcorp.com^
 ||adapi.lenovogame.com^
@@ -5984,6 +5992,7 @@
 ||adservice.google.com^
 ||adservice.google.com.au^
 ||adservice.google.com.hk^
+||adservice.google.com.mt^
 ||adservice.google.com.tr^
 ||adservice.google.com.vn^
 ||adservice.google.de^
@@ -6848,6 +6857,7 @@
 ||aitec.edu.ec^
 ||aitligold.tripod.com^
 ||aitsngnuu.angelcities.com^
+||aivee.koiwazurai.com^
 ||ajbhsh.edu.bd^
 ||ak-ns.sascdn.com^
 ||ak.imgaft.com^
@@ -6909,6 +6919,7 @@
 ||alexandria90.etcserver.com^
 ||alexannk.beget.tech^
 ||alexey.blog21.ru^
+||alexiedb.home.ro^
 ||alexpay2.beget.tech^
 ||alfredog.beget.tech^
 ||alhuriahglass.000webhostapp.com^
@@ -6960,8 +6971,10 @@
 ||allegro.pl.showitme.pl^
 ||alleron.andree.free.fr^
 ||allisto.rusjohn.ru^
+||allmp3.hostil.pl^
 ||allmusic.c0.pl^
 ||allrinku.web.fc2.com^
+||allsex.atspace.com^
 ||allvideo.org.uk^
 ||allvideos.sampleboot.xyz^
 ||almanya-fsn1-dc10.hostintegra.com^
@@ -7000,6 +7013,7 @@
 ||alvisi.kiev.ua^
 ||alwaysnewsoft.thegoodonesystemforcontentingstable.stream^
 ||alwaysnewsoft.thegreatstabilitycontentingclear.win^
+||alynawebx.go.ro^
 ||alyruby.000webhostapp.com^
 ||alyssamilano.1stok.com^
 ||alyssamilano.ca.tt^
@@ -7994,6 +8008,7 @@
 ||aquavista.org.nz^
 ||aquiwef22.esy.es^
 ||ar.mytrack.pro^
+||arabian-horse-highlights.homepage.t-online.de^
 ||arabiantrade.000webhostapp.com^
 ||arabic-offenses.000webhostapp.com^
 ||arabmistress.s3.amazonaws.com^
@@ -10454,6 +10469,7 @@
 ||cbjs.baidu.com^
 ||cbs.wondershare.com^
 ||cbuzoo.comlu.com^
+||cbvjddh.23txt.com^
 ||cc.dace.hupu.com^
 ||cc.gofile.io^
 ||cc.klapi.cn^
@@ -11814,6 +11830,7 @@
 ||collector-428.tvsquared.com^
 ||collector-axa.cloud.ca.com^
 ||collector-cdn.github.com^
+||collector-medium.lightstep.com^
 ||collector-pxel3l4xih.perimeterx.net^
 ||collector-test.staging.mb-internal.com^
 ||collector.abc-host.net.au^
@@ -12008,7 +12025,6 @@
 ||control.smbeat.jp^
 ||controlroom.netmining.com^
 ||conv.youdao.com^
-||converse.tm-awx.com^
 ||conversion.adpro.cn^
 ||convertglobal.s3.amazonaws.com^
 ||cookie-info.sduuitgevers.nl^
@@ -12598,7 +12614,6 @@
 ||d.audienceiq.com^
 ||d.beigedi.com^
 ||d.billyaffcontent.com^
-||d.businessinsider.com^
 ||d.cfcnet.to^
 ||d.clkservice.youdao.com^
 ||d.cntv.cn^
@@ -12614,7 +12629,6 @@
 ||d.getaccss.com^
 ||d.gettvwizard.com^
 ||d.ghostery.com^
-||d.gossipcenter.com^
 ||d.greece-search.com^
 ||d.gz2010.cn^
 ||d.gzpinda.com^
@@ -12639,7 +12653,6 @@
 ||d.t.tailtarget.com^
 ||d.tailtarget.com^
 ||d.thanksearch.com^
-||d.thelocal.com^
 ||d.tonghua5.com^
 ||d.union.ijinshan.com^
 ||d.ustream.tv^
@@ -13605,7 +13618,6 @@
 ||dealmedia.utsandiego.com^
 ||dealoftheday.yellowpages.com^
 ||deals.buxr.net^
-||deals.ledgertranscript.com^
 ||deals.macupdate.com^
 ||debility.adelgazar360.es^
 ||deblokgsm.free.fr^
@@ -14094,7 +14106,6 @@
 ||dodian.site50.net^
 ||dofeb.frenchgerlemanelectric.com^
 ||dog.halfbirthdayproducts.com^
-||dog1.verystream.com^
 ||dogus-ads-cdn.dygdigital.com^
 ||dohs95d6tfj19.cloudfront.net^
 ||dojx47ab4dyxi.cloudfront.net^
@@ -14756,8 +14767,6 @@
 ||e.zvfuka.cn^
 ||e2.molbuk.ua^
 ||e2cb3799.ngrok.io^
-||e2e.mashable.com^
-||e2e.pcmag.com^
 ||e3.adpushup.com^
 ||e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com^
 ||e3yt5.at-band-camp.net^
@@ -14968,7 +14977,6 @@
 ||embed.sendtonews.com^
 ||embed.spokenlayer.com^
 ||embed.tonews.org^
-||embed.xinhuanet.com^
 ||embedlog.duiba.com.cn^
 ||embroidery.embroidery.embroidery.ebp-items-offer-now.com^
 ||emd10.medianext.com^
@@ -15023,7 +15031,6 @@
 ||engage.speedera.net^
 ||engage2.advanstar.com^
 ||engager.tmg.nl^
-||engagesrvr.filefactory.com^
 ||engine.a.redditmedia.com^
 ||engine.airtransat.co.uk^
 ||engine.ap.bittorrent.com^
@@ -15068,7 +15075,6 @@
 ||entry12-bk-mfug-ufj-ssl-salam.grittygirls.org^
 ||enucip.spacefoot.com^
 ||eol1.egyptonline.com^
-||eontent.streamp1ay.me^
 ||eotech-yoqblou5gqrdrn.netdna-ssl.com^
 ||ep.xone.com^
 ||epay-system.manages-ssl.com^
@@ -15091,6 +15097,7 @@
 ||erebor.douban.com^
 ||erectile.byethost33.com^
 ||erg.boutiquedepro.net^
+||ergjt.bxugac.live^
 ||ericzworkz.free.fr^
 ||erie.smartage.com^
 ||erie.smartage.net^
@@ -15224,7 +15231,6 @@
 ||euwidget.imshopping.com^
 ||euytkfwa.ddns.info^
 ||ev.ib-ibi.com^
-||eva.ucas.com^
 ||evans.babajilab.in^
 ||evasi0n.jailbreakhost.com^
 ||evasive.expertwitnessautomaticdoor.net^
@@ -15881,7 +15887,6 @@
 ||finance.b3p.cn^
 ||findapps.in.net^
 ||finder.cox.net^
-||finding.hardwareheaven.com^
 ||findnsave.idahostatesman.com^
 ||fine.ancestrybloodhound.biz^
 ||fine.azsportsent.info^
@@ -15976,6 +15981,7 @@
 ||fone.fdti.in^
 ||fone.joreynolds.com^
 ||fonecta.leiki.com^
+||fontent.streamp1ay.me^
 ||foo.cosmocode.de^
 ||food.epicurious.com^
 ||for.ideaman-usa.com^
@@ -16467,7 +16473,6 @@
 ||gemini.yahoo.com^
 ||gen-hydrocodone.polybuild.ru^
 ||gen.alicdn.com^
-||gen.etherscan.io^
 ||general-fb-security10000.000webhostapp.com^
 ||general1245.pe.hu^
 ||generator.carsdream.com^
@@ -17143,12 +17148,10 @@
 ||heartbeatmatchmaker01.000webhostapp.com^
 ||heathergraham.ca.tt^
 ||heavengg-hearing.c9users.io^
-||heavenmedia.v3g4s.com^
 ||heavyindustries.viuu.site^
 ||heimo.rrsdl.com^
 ||heise.met.vgwort.de^
 ||heisebanner.geizhals.at^
-||hejban.youwatch.org^
 ||hekate.porntrack.nl^
 ||helal.net.bd^
 ||helesouurusa.cjb.com^
@@ -17925,7 +17928,6 @@
 ||iflyad.bj.openstorage.cn^
 ||ifomzrs7ap7353oky4vr.littlematchagirl.com.au^
 ||iframe.lachainemeteo.com^
-||iframe.travel.yahoo.com^
 ||iframes.hustler.com^
 ||iframes.perfectgonzo.com^
 ||iframes.prettyincash.com^
@@ -18104,6 +18106,7 @@
 ||imageserv.livingnet.de^
 ||imalaseko.win.co.tz^
 ||imamnhearte.hotmail.ru^
+||imap.dpsl.net^
 ||imasdk.googleapis.com^
 ||imc.l.qq.com^
 ||imex.cezard.imcserver.ro^
@@ -18365,6 +18368,7 @@
 ||incoming.telemetry.mozilla.org^
 ||incontech.owncube.com^
 ||increasingly.nut.cc^
+||indetiske.ya.ru^
 ||index-pdf-admin-profile00000000.renusasrl.com^
 ||index.gh-xh-nwe.com^
 ||index.woai310.com^
@@ -19094,6 +19098,7 @@
 ||js.vidoza.net^
 ||js.vipyy88.com^
 ||js.worthathousandwords.com^
+||js.xiao7cdn.com^
 ||js.xtgreat.com^
 ||js.xuexila.com^
 ||js.yoyi.tv^
@@ -19228,7 +19233,6 @@
 ||kalaydo.fnp.de^
 ||kali.mycom.co.jp^
 ||kali.mynavi.jp^
-||kalo.onvid.xyz^
 ||kalstats.kaltura.com^
 ||kameliya.dn.ua^
 ||kamnh.freewww.info^
@@ -19283,7 +19287,6 @@
 ||kencooper55.5gbfree.com^
 ||keniisha.realdealpsychic.com^
 ||kenmollens.hackerz5.com^
-||ker.pic2pic.site^
 ||kerchiefed-bets.000webhostapp.com^
 ||kermit.macnn.com^
 ||kerui.designmehair.net^
@@ -19756,7 +19759,6 @@
 ||lichttechnik.familyofpraise.org^
 ||lie9thli-site.dtempurl.com^
 ||lif.yaicom.ru^
-||life.imagepix.org^
 ||lifemediahouse1.onlinewelten.com^
 ||lifescience.sysu.edu.cn^
 ||lifestyles.pp.ru^
@@ -21229,6 +21231,7 @@
 ||md.sh5e.com^
 ||md.tvzhe.com^
 ||mdc.meitustat.com^
+||mdd68xwtofd2g4h.cjpyqf.live^
 ||mdefbugivafmnk.ivydancefloors.com^
 ||mdennis2-5.000webhostapp.com^
 ||mdevstat.qqlive.qq.com^
@@ -28906,6 +28909,7 @@
 ||soul.doctortoken.co.in^
 ||soundwave.mobile.yahoo.com^
 ||soup.v.qq.com^
+||sourcepoint.vice.com^
 ||sourcescdn.xiaobingw.cn^
 ||southpointrs.edu.np^
 ||sovernet.16mb.com^
@@ -28971,6 +28975,7 @@
 ||sponsors.s2ki.com^
 ||sponsors.thoughtsmedia.com^
 ||sponsors.webosroundup.com^
+||spoor-api.asia.nikkei.com^
 ||sport-betting-online.hitslog.net^
 ||sport.albeu.al^
 ||sport.hudaem.ru^
@@ -29992,6 +29997,7 @@
 ||suntrust.comeoqwerty.pranavitours.com^
 ||suntrustealrts.esy.es^
 ||sunturst2017.000webhostapp.com^
+||suolaka.23txt.com^
 ||sup-port.netne.net^
 ||super.cat898.com^
 ||super.kdnet.net^
@@ -34333,6 +34339,7 @@
 ||wwelasmd.forumflorestal.pt^
 ||wwp-cartasi-titoari-portale-sicreuzza-2017-ci.dynamic-dns.net^
 ||wwv.onetad.com^
+||www-apple-com-anti-virus-systems.virus-removals.com^
 ||www-apple-com-virus-removal-systems.fixingit.solutions^
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
@@ -35164,6 +35171,7 @@
 ||www.entirelynude.com^
 ||www.epwinsupreme.com^
 ||www.ere3j2e001.com^
+||www.ergjt.bxugac.live^
 ||www.ergotherapie-schleswig.de^
 ||www.erodynamics.nl^
 ||www.eroticscreensaver.com^
@@ -35897,6 +35905,7 @@
 ||www.mb89-live.com^
 ||www.mbai.cn^
 ||www.mcsqd.com^
+||www.mdd68xwtofd2g4h.cjpyqf.live^
 ||www.mecz.ujm.pl^
 ||www.media-motor.com^
 ||www.media2.travelzoo.com^
